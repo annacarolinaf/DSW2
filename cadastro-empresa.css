@@ -109,7 +109,6 @@ input.is-invalid {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: Arial, sans-serif;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 
     margin-bottom: 10vh;
@@ -135,10 +134,6 @@ input.is-invalid {
     margin-right: -13vw;
     display: flex;
     gap: 20px; 
-}
-
-.navbar-links a {
-    margin-top: 0.25vh;
 }
 
 .nav-link-custom {
